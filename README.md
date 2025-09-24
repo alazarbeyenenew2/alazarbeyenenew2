@@ -10,14 +10,14 @@ I build scalable backends in **Go**, automate infrastructure with **DevOps pract
 
 ### 💻 Languages & Frameworks  
 - 🐹 **Golang (Primary)**  
-- Python, Bash  
+- Bash  
 - SQL & NoSQL  
 
 ### ⚙️ DevOps & Cloud  
-- Docker · Kubernetes · Helm  
+- Docker · Docker Swarm  
 - CI/CD → GitHub Actions, GitLab CI, Jenkins  
 - Nginx · Traefik  
-- AWS · GCP · DigitalOcean  
+- DigitalOcean  
 
 ### 🔒 Cybersecurity & Pentesting  
 - Web App & API Security  
@@ -27,16 +27,14 @@ I build scalable backends in **Go**, automate infrastructure with **DevOps pract
 ---
 
 ## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alazarbeyenenew2&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alazarbeyenenew2&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alazarbeyenenew2&layout=compact&theme=tokyonight)      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alazarbeyenenew2&show_icons=true&theme=tokyonight) 
 
 ---
 
 ## 🚀 Featured Projects  
 - 🛡️ **Pentesting Toolkit** → Automated scripts & tools for security testing  
 - ⚡ **Go Microservices** → High-performance backend services in Go  
-- 📦 **DevOps Templates** → Docker & K8s blueprints for production  
+ 
 
 ---
 
